@@ -1,17 +1,8 @@
 ---
 layout: default
 ---
-# It's a me, Mario
+![My Face](./images/skyPhoto.jpg)
 
-I jump a lot.
+# Brief Bio
 
----
-## Research Interests
-
-Nintendo
-
----
-## teaching
-Nintendo Japan
-
----
+Add text
