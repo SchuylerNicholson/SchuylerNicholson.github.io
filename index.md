@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img align="left" src="./images/skyPhoto.jpg" alt="Profile Image" width="105"/>
+<img align="left" src="./images/skyPhoto.jpg" alt="Profile Image" width="100"/>
 
 I am a research associate in Chemistry at Northwestern University where I work primarily with [Todd Gingrich](https://gingrich.chem.northwestern.edu/). I completed my PhD in Applied Mathematics at the University of Sheffield, advised by Prof. Eun-jin Kim. Previously I was a postdoctoral researcher at the University of Massachusetts Boston working with [Jason Green](https://jasonrgreen.net/). I was also a visiting researcher at the Research Institute for Electronic Science, Molecular Life and Non-linear Sciences, Hokkaido University, Sapporo, Japan, working with Tamiki Komatsuzaki's group. My undergraduate and Masters was in Physics at Clarkson University, where I worked with Lawrence Schulman.
 
