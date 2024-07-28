@@ -6,7 +6,7 @@ permalink: /research/
 
 <div class="figure-container-horizontal-full">
     <div class="figure">
-         <img src="../images/FigOne.pdf">
+         <img src="../images/Image.jpg">
   </div>
 </div>
 
