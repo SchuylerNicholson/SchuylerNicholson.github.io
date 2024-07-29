@@ -22,5 +22,5 @@ Access to the probability of any microstate of the system yields a plethora of s
 <br>
 
 We show that by incorporating tensor networks with a classical second quantized method called the Doi-Peliti formalism, one can calculate not just expected values, but rare events at the ensemble level.
-In [S.B. Nicholson T.R. Gingrich PRX 2023](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041006), we estimate the exponentially rare rate of transition between two wells of a reaction-diffusion process by time evolving a joint probability distribution that consists of up to approximately $10^{15}$ microstates.
+In [S.B. Nicholson T.R. Gingrich PRX 2023](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041006), we estimate the exponentially rare rate of transition between two wells of a reaction-diffusion process by time evolving a joint probability distribution that consists of up to approximately <a>$10^{15}$</a> microstates.
 Future work will apply tensor network methods to other stochastic processes in Biology and Chemistry where molecular copy numbers are small, but the number of microstates is exponentially large.
