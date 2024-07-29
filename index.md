@@ -13,4 +13,4 @@ I work in applied and computational mathematics. My most recent research interes
 
 My google scholar can be found [Here](https://scholar.google.com/citations?hl=en&user=_E-KXOgAAAAJ&view_op=list_works&sortby=pubdate). I can be reached at schuyler dot nicholson at northwestern dot edu.
 
-When $$ a \ne 0 $$, there are two solutions to $$ (ax^2 + bx + c = 0) $$ and they are $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+When $$a \ne 0$$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
