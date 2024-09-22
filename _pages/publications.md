@@ -18,11 +18,11 @@ permalink: /publications/
 * S.B. Nicholson, A. del Campo, J.R. Green "Nonequilibrium uncertainty principle from information geometry." Physical Review E 98 (3), 032106 [Journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032106) / [arXiv](https://arxiv.org/abs/1801.02242)
 * S.B. Nicholson, M. Alaghemandi, J.R. Green "Effects of temperature and mass conservation on the typical chemical sequences of hydrogen oxidation." The Journal of Chemical Physics 148 (4) [Journal](https://pubs.aip.org/aip/jcp/article/148/4/044102/75400)
 * S.B. Nicholson, J.S. Greenberg, J.R. Green "Entrance and escape dynamics for the typical set." Physical Review E 97 (1), 012146 [Journal](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.012146)
-* S.B. Nicholson, M. Alaghemandi, J.R. Green "Learning the mechanisms of chemical disequilibria" The Journal of Chemical Physics 145 (8) [Journal](https://pubs.aip.org/aip/jcp/article-abstract/145/8/084112/561839/Learning-the-mechanisms-of-chemical-disequilibria?redirectedFrom=fulltext)
+* S.B. Nicholson, M. Alaghemandi, J.R. Green "Learning the mechanisms of chemical disequilibria." The Journal of Chemical Physics 145 (8) [Journal](https://pubs.aip.org/aip/jcp/article-abstract/145/8/084112/561839/Learning-the-mechanisms-of-chemical-disequilibria?redirectedFrom=fulltext)
 * S.B. Nicholson, E. Kim "Structures in sound: Analysis of classical music using the information length." Entropy 18 (7), 258 [Journal](https://www.mdpi.com/1099-4300/18/7/258)
 * S.B. Nicholson, E. Kim "Geometric method for forming periodic orbits in the Lorenz system." Physica Scripta 91 (4), 044006 [Journal](https://iopscience.iop.org/article/10.1088/0031-8949/91/4/044006/meta)
 * E. Kim, S.B. Nicholson "Complementary relations in non-equilibrium stochastic processes." Physics Letters A 379 (28-29), 1613-1618 [Journal](https://www.sciencedirect.com/science/article/pii/S0375960115003734)
 * S.B. Nicholson, E. Kim "Investigation of the statistical distance to reach stationary distributions." Physics Letters A 379 (3), 83-88 [Journal](https://www.sciencedirect.com/science/article/pii/S0375960114011104)
 * S.B. Nicholson, L.S. Schulman, E. Kim "Deciphering interactions of complex systems that do not satisfy detailed balance." Physics Letters A 377 (31-33), 1810-1813 [Journal](https://www.sciencedirect.com/science/article/pii/S0375960113005240)
-* S.B. Nicholson, E. Kim, L.S. Schulman "A master equation approach to deciphering non-detailed balance systems Chaotic Model. Simul. 4, 569-574 [Journal](http://www.cmsim.eu/papers_pdf/october_2012_papers/3_CMSIM_2012_Nicholson_Kim_Schulman_4_569-574.pdf)
-* 
+* S.B. Nicholson, E. Kim, L.S. Schulman "A master equation approach to deciphering non-detailed balance systems." Chaotic Model. Simul. 4, 569-574 [Journal](http://www.cmsim.eu/papers_pdf/october_2012_papers/3_CMSIM_2012_Nicholson_Kim_Schulman_4_569-574.pdf)
+  
