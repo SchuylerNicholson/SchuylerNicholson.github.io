@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-# Under Construction
 ## Preprints
 
 * N.E. Strand, S.B. Nicholson, H. Vroylandt and T.R. Gingrich. "From high-dimensional committors to reactive insights." arXiv:2406.01452 [arXiv](https://arxiv.org/pdf/2406.01452)
