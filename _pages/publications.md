@@ -25,3 +25,5 @@ permalink: /publications/
 * E. Kim, S.B. Nicholson "Complementary relations in non-equilibrium stochastic processes." Physics Letters A 379 (28-29), 1613-1618 [Journal](https://www.sciencedirect.com/science/article/pii/S0375960115003734)
 * S.B. Nicholson, E. Kim "Investigation of the statistical distance to reach stationary distributions." Physics Letters A 379 (3), 83-88 [Journal](https://www.sciencedirect.com/science/article/pii/S0375960114011104)
 * S.B. Nicholson, L.S. Schulman, E. Kim "Deciphering interactions of complex systems that do not satisfy detailed balance." Physics Letters A 377 (31-33), 1810-1813 [Journal](https://www.sciencedirect.com/science/article/pii/S0375960113005240)
+* S.B. Nicholson, E. Kim, L.S. Schulman "A master equation approach to deciphering non-detailed balance systems Chaotic Model. Simul. 4, 569-574 [Journal](http://www.cmsim.eu/papers_pdf/october_2012_papers/3_CMSIM_2012_Nicholson_Kim_Schulman_4_569-574.pdf)
+* 
