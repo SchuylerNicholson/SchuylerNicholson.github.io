@@ -25,5 +25,11 @@ In [S.B. Nicholson T.R. Gingrich PRX 2023](https://journals.aps.org/prx/abstract
 Future work will apply tensor network methods to other stochastic processes in Biology and Chemistry where molecular copy numbers are small, but the number of microstates is exponentially large.
 
 <!-- ## Speed limits -->
-<img src="../images/Just_Qdot.png" class="right_figure">
+<div style="display: flex;">
+  <img src="../images/Just_Qdot.png" style="width:40%;height:auto;">
+ <p>Information is intimately intertwined with energy and work away from equilibrium. In [S.B. Nicholson et al. Nature Physics 2020]{https://www.nature.com/articles/s41567-020-0981-y} we showed that for many thermodynamic observables such as heat flux or entropy, there is a quantity called the Fisher Information which acts as a universal speed limit, restricting how fast a stochastic system can evolve in time. Later, we used these results to generalize the Mandelstam-Tamm time-energy uncertainty relation in quantum mechanics [L.P. Garcia-Pintos, S.B. Nicholson et al. Physical Review X 2022]{https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011038} to mixed states with arbitrary dynamics. A decomposition of the quantum result showed how our classical speed limits can be recovered as a special case of the quantum results. These uncertainty relations show that at a fundamental level information constrains the evolution of physical observables.</p>
+</div>
+
+<img src="../images/Just_Qdot.png" class="right_figure"
+style="width:50%;height:auto;">
 Information is intimately intertwined with energy and work away from equilibrium. In [S.B. Nicholson et al. Nature Physics 2020]{https://www.nature.com/articles/s41567-020-0981-y} we showed that for many thermodynamic observables such as heat flux or entropy, there is a quantity called the Fisher Information which acts as a universal speed limit, restricting how fast a stochastic system can evolve in time. Later, we used these results to generalize the Mandelstam-Tamm time-energy uncertainty relation in quantum mechanics [L.P. Garcia-Pintos, S.B. Nicholson et al. Physical Review X 2022]{https://journals.aps.org/prx/pdf/10.1103/PhysRevX.12.011038} to mixed states with arbitrary dynamics. A decomposition of the quantum result showed how our classical speed limits can be recovered as a special case of the quantum results. These uncertainty relations show that at a fundamental level information constrains the evolution of physical observables.
