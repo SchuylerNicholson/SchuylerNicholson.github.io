@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ## Preprints
-
+* J.P. Zima and S.B. Nicholson and T.R. Gingrich. "Chemical master equation parameter exploration using DMRG." arXiv:2501.09692 [arXiv](https://arxiv.org/abs/2501.09692).
 * S.B. Nicholson and J.R. Green. "Thermodynamic speed limits from the regression of information." arXiv:2105.01588 [arXiv](https://arxiv.org/abs/2105.01588)
 
 ## In Print
