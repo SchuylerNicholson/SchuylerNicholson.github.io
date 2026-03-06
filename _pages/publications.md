@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ## Preprints
+* C. Murphy, S.B.~Nicholson, N. Freitas, E. Penocchio, T.R. Gingrich, "Dissipation-Reliability Tradeoff for Stochastic CMOS Bits in Series." arXiv:2603.04658v1 [arXiv](https://arxiv.org/abs/2603.04658).
 * S.B. Nicholson, L.P. García-Pintos. "Thermodynamics of large-scale chemical reaction networks." arXiv:2512.19616 [arXiv](https://arxiv.org/pdf/2512.19616).
 * S.B. Nicholson and J.R. Green. "Thermodynamic speed limits from the regression of information." arXiv:2105.01588 [arXiv](https://arxiv.org/abs/2105.01588)
 
