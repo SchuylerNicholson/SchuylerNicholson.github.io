@@ -4,10 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 ## Preprints
-* J.P. Zima and S.B. Nicholson and T.R. Gingrich. "Chemical master equation parameter exploration using DMRG." arXiv:2501.09692 [arXiv](https://arxiv.org/abs/2501.09692).
+* S.B. Nicholson, L.P. García-Pintos. "Thermodynamics of large-scale chemical reaction networks." arXiv:2512.19616 [arXiv](https://arxiv.org/pdf/2512.19616).
 * S.B. Nicholson and J.R. Green. "Thermodynamic speed limits from the regression of information." arXiv:2105.01588 [arXiv](https://arxiv.org/abs/2105.01588)
 
 ## In Print
+* J.P. Zima and S.B. Nicholson and T.R. Gingrich. "Chemical master equation parameter exploration using DMRG." Journal of Chemical Physics (2025). [Journal](https://pubs.aip.org/aip/jcp/article-abstract/163/5/054118/3357896/Chemical-master-equation-parameter-exploration?redirectedFrom=fulltext) /[arXiv](https://arxiv.org/pdf/2501.09692)
 * N.E. Strand, S.B. Nicholson, H. Vroylandt and T.R. Gingrich. "From high-dimensional committors to reactive insights." Journal of Chemical Physics (2024). [Journal](https://pubs.aip.org/aip/jcp/article/161/22/224109/3324222/From-high-dimensional-committors-to-reactive) / [arXiv](https://arxiv.org/pdf/2406.01452)
 * S.B. Nicholson and T.R. Gingrich. "Quantifying Rare Events in Stochastic Reaction-Diffusion Dynamics using Tensor Networks." Physical Review X 13 (2023). [Journal](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.13.041006) / [arXiv](https://arxiv.org/abs/2301.03717)
 * Z.G. Nicolaou, S.B. Nicholson, A.E. Motter and J.R. Green. "Prevalence of multistability and non-stationarity in driven chemical networks." Journal of Chemical Physics 58 (2023) [Journal](https://pubs.aip.org/aip/jcp/article/158/22/225101/2895249/Prevalence-of-multistability-and-nonstationarity)/ [arXiv](https://arxiv.org/abs/2306.09408)
